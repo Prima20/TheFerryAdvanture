@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "CobaProject",
+"dataUrl": "Unity Project build.data.unityweb",
+"asmCodeUrl": "Unity Project build.asm.code.unityweb",
+"asmMemoryUrl": "Unity Project build.asm.memory.unityweb",
+"asmFrameworkUrl": "Unity Project build.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
